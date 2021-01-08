@@ -1,7 +1,3 @@
-/*
-Author: Ayumi Mutoh
-Assignment: Homework 5
-Due Date: 11/5/20*/
 
 
 /*Q#1 (a)*/

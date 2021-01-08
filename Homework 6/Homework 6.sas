@@ -1,5 +1,4 @@
-/*Ayumi Mutoh
-Homework 6*/
+
 
 /*question 1*/
 proc import DATAFILE="C:\Users\mutohai\Downloads\Data_Home_Work_6_Problems_1NEW.xls" out=SES DBMS=xls replace;
